@@ -1,6 +1,6 @@
 package com.buaa.paas.config;
 
-import com.example.springboottest.controller.interceptor.Interceptor;
+import com.buaa.paas.controller.interceptor.Interceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

@@ -1,7 +1,7 @@
 package com.buaa.paas.controller;
 
-import com.example.springboottest.controller.response.Response;
-import com.example.springboottest.exception.*;
+import com.buaa.paas.controller.response.Response;
+import com.buaa.paas.exception.*;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

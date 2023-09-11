@@ -1,8 +1,8 @@
 package com.buaa.paas.controller;
 
-import com.example.springboottest.controller.response.DataResponse;
-import com.example.springboottest.domain.Book;
-import com.example.springboottest.service.BookService;
+import com.buaa.paas.controller.response.DataResponse;
+import com.buaa.paas.domain.Book;
+import com.buaa.paas.service.BookService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

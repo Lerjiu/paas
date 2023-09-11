@@ -1,6 +1,6 @@
 package com.buaa.paas.dao;
 
-import com.example.springboottest.domain.Book;
+import com.buaa.paas.domain.Book;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

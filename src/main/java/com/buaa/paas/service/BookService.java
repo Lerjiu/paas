@@ -1,6 +1,6 @@
 package com.buaa.paas.service;
 
-import com.example.springboottest.domain.Book;
+import com.buaa.paas.domain.Book;
 
 import java.util.List;
 

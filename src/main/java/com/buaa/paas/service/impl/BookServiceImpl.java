@@ -1,8 +1,8 @@
 package com.buaa.paas.service.impl;
 
-import com.example.springboottest.dao.BookDao;
-import com.example.springboottest.domain.Book;
-import com.example.springboottest.service.BookService;
+import com.buaa.paas.dao.BookDao;
+import com.buaa.paas.domain.Book;
+import com.buaa.paas.service.BookService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
