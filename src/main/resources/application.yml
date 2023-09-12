@@ -8,3 +8,16 @@ spring:
       url: jdbc:mysql://127.0.0.1:3306/paas
       username: root
       password: 122381
+
+k3s:
+  base-url: https://10.251.255.171:6443
+  token: K10114bfeef44e315cc1d7ab72f5cb876253e11e99057585936ca9e53bfcf9259ac::server:b486ad12d1263e9d7d1e4267a804fa57
+  namespace: kube-system
+
+docker:
+  host: tcp://10.251.255.171:2375
+  api-version: 1.43
+  docker-tls-verify: false
+  registry-url: http://10.251.253.186:5000/
+
+
